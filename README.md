@@ -70,7 +70,7 @@ If you have any questions about the instructions or how to create branches, writ
 <p align="center">
   <br>
   <samp>
-    Thank you :)
+    Thank you :) <br>
 
 </samp>
 
