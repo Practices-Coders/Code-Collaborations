@@ -9,15 +9,15 @@
 ### Instruction for Collaborations
 
 ------------
-`Cualquier duda con las instrucciones o aprender a crear ramas, escribir a:</br>
-If you have any questions about the instructions or how to create branches, write to:`
+`Cualquier duda con las instrucciones o aprender a crear ramas, escribir a:`
+`If you have any questions about the instructions or how to create branches, write to:`
 
 
 ------------
 
 
-<code><a href="https://wa.me/+51993620749" target="_blank"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/640px-WhatsApp.svg.png"></a></code>
-<code><a href="https://t.me/MarckJoe"  target="_blank"><img height="20" src="https://www.seekpng.com/png/full/945-9450674_web-telegram-icon-telegram-png.png"></a></code>
+<code><a href="https://wa.me/+51993620749" target="_blank"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/640px-WhatsApp.svg.png"> Whatsapp</a></code>
+<code><a href="https://t.me/MarckJoe"  target="_blank"><img height="20" src="https://www.seekpng.com/png/full/945-9450674_web-telegram-icon-telegram-png.png"> Telegram</a></code>
 
 ------------
 
