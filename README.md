@@ -63,3 +63,18 @@ If you have any questions about the instructions or how to create branches, writ
 `Finally, don't forget to comment your code, it will benefit others.`
 
 ![](https://user-images.githubusercontent.com/22551090/144496665-40751702-7cb1-42c9-b3c6-af858788130d.jpg)
+
+
+------------
+
+<p align="center">
+  <br>
+  <samp>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
+    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
+
+</samp>
+
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+</p>
