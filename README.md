@@ -49,7 +49,7 @@ If you have any questions about the instructions or how to create branches, writ
 ------------
 ## Nº5.
 `We are located in our created branch`
-`
+
 
 
 ![](https://user-images.githubusercontent.com/22551090/144495712-3a04b9e0-4723-43db-a0c9-248bf19cc105.jpg)
@@ -57,6 +57,6 @@ If you have any questions about the instructions or how to create branches, writ
 ------------
 ## We are now ready to realize our collaboration :tw-1f600:
 
-`inally, don't forget to comment your code, it will benefit others.`
+`Finally, don't forget to comment your code, it will benefit others.`
 
 ![](https://user-images.githubusercontent.com/22551090/144496665-40751702-7cb1-42c9-b3c6-af858788130d.jpg)
