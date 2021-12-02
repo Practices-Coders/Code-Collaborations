@@ -1,3 +1,6 @@
+# Read before contributing
+------------
+
 # CODE AND EXERCISES.
 
 ###### You will be able to solve the different problems with different algorithms and programming languages.
