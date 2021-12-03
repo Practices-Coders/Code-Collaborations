@@ -1,4 +1,5 @@
 # Read before contributing
+<code><a href="https://t.me/EnlacesProgramadores"  target="_blank"><img height="40" src="https://www.seekpng.com/png/full/945-9450674_web-telegram-icon-telegram-png.png"> Comunidad de Telegram</a></code>
 ------------
 
 # CODE AND EXERCISES.
