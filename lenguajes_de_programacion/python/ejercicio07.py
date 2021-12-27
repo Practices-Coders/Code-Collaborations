@@ -1,0 +1,8 @@
+cantidad = round(float(input("Introduzca la cantidad de la cuenta de ahorros: ")), 2)
+primer_agno = round(cantidad * 1.04, 2)
+segundo_agno = round(primer_agno * 1.04, 2)
+tercer_agno = round(segundo_agno * 1.04, 2)
+print("Cantidad: " + str(cantidad))
+print("Primer año: " + str(primer_agno))
+print("Segundo año: " + str(segundo_agno))
+print("Tercer año: " + str(tercer_agno))
