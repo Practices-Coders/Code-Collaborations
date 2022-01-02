@@ -7,3 +7,6 @@ en caso de encontrarte en un sistema Unix debes ejecutar el comando `python3 eje
 por ejemplo, para ejecutar el primer ejercicio:
 
 ### `Python3 ejercicio_1.py`
+
+Cualquier duda consultar la [documentación de Python](https://docs.python.org/es/3/) o consultarme
+en [Twitter](https://twitter.com/cuellomoya)
