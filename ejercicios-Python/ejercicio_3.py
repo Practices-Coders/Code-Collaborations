@@ -7,9 +7,3 @@ def ejercicio_3(nombre):
         nombre (String): Nombre a mostrar por pantalla.
     """
     print(f'Hola {nombre}!')
-
-
-# Aqui recibimos el nombre y lo asignamos a la variable nombre
-nombre = input('Digite su nombre: ')
-
-ejercicio_3(nombre)

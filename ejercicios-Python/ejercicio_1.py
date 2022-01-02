@@ -4,7 +4,3 @@ def hello_world():
         va a retornar un mensaje.
     """
     print('Hello World!')
-
-
-# En este punto se ejecutó la función.
-hello_world()

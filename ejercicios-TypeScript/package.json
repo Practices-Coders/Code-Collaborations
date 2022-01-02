@@ -1,0 +1,14 @@
+{
+  "name": "ejercicios-typescript",
+  "version": "1.0.0",
+  "description": "ejercicios de TypeScript de Código Abierto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Acuellodemoya <acuellodemoya@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.6"
+  }
+}
