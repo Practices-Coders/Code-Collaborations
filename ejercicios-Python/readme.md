@@ -8,7 +8,7 @@ por ejemplo, para ejecutar el primer ejercicio:
 
 ### `Python3 ejercicio_1.py`
 
-Para probar los ejercicios puedes crear un caso de pruba pasandole parametros.
+Para probar los ejercicios puedes crear un caso de prueba pasandole parametros.
 
 Cualquier duda consultar la [documentación de Python](https://docs.python.org/es/3/) o consultarme
 en [Twitter](https://twitter.com/cuellomoya)

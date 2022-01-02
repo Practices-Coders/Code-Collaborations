@@ -7,7 +7,7 @@ debes ejecutar el comando `ts-node ejercicio_n.ts` por ejemplo, para ejecutar el
 
 ### `ts-node ejercicio_1.ts`
 
-Para probar los ejercicios puedes crear un caso de pruba pasandole parametros.
+Para probar los ejercicios puedes crear un caso de prueba pasandole parametros.
 
 Cualquier duda consultar la [documentación de NodeJs](https://nodejs.org/es/) y [TypeScript](https://www.typescriptlang.org/) consultarme
 en [Twitter](https://twitter.com/cuellomoya)
