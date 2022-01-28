@@ -13,12 +13,12 @@ de payasos y muñecas vendidos en el último pedido y calcule el peso total del 
 peso_payaso = 112
 peso_mune = 75
 
-# Solicitar los datos
+# Solicitar los datos o cantidad de producto
 payaso = int(input('Ingrese la cantidad de payasos: '))
 munieca = int(input('Ingrese la cantidad de muñecas: '))
 
 # area de calculo
-peso_caja = (peso_payaso * payaso) + (peso_mune * peso_mune)
+peso_caja = (peso_payaso * payaso) + (peso_mune * munieca)
 
 # imprimir los resultados
 print(f"""
