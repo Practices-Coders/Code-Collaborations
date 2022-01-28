@@ -17,3 +17,5 @@ pago = horas * salario
 
 # imprimir los resultados
 print(f"El pago: ${pago}")
+
+# fin del programa
