@@ -13,8 +13,8 @@
 ### Instruction for Collaborations
 
 ------------
-`Cualquier duda con las instrucciones o aprender a crear ramas, escribir a:`
-`If you have any questions about the instructions or how to create branches, write to:`
+`Cualquier duda con las instrucciones o aprender a crear ramas, escribir al Whatsapp o Telegram:`
+`If you have any questions about the instructions or how to create branches, write to Whatsapp or Telegram:`
 
 
 ------------
