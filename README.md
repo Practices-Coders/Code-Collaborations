@@ -1,7 +1,7 @@
 # Read before contributing
 <code><a href="https://t.me/EnlacesProgramadores"  target="_blank"><img height="40" src="https://www.seekpng.com/png/full/945-9450674_web-telegram-icon-telegram-png.png"> Comunidad de Telegram</a></code>
 
-<code><a href="https://chat.whatsapp.com/LNN7jSN00PIJguK7jSkoyd"  target="_blank"><img height="40" src="https://user-images.githubusercontent.com/22551090/175209077-f368c78e-2a0c-4a6c-9197-8bf637c00c0e.png"> Comunidad de Whatsapp</a></code>
+<code><a href="https://chat.whatsapp.com/Fs2G5RZ1InKF4bY29d01iH"  target="_blank"><img height="40" src="https://user-images.githubusercontent.com/22551090/175209077-f368c78e-2a0c-4a6c-9197-8bf637c00c0e.png"> Comunidad de Whatsapp</a></code>
 
 ------------
 
