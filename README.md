@@ -24,6 +24,27 @@
 <code><a href="https://t.me/MarckJoe"  target="_blank"><img height="20" src="https://www.seekpng.com/png/full/945-9450674_web-telegram-icon-telegram-png.png"> Telegram</a></code>
 
 ------------
+#### Contribuciones: Correcciones y Nuevas Funcionalidades (Contributions: Bug Fixes and New Features)
+¡Nos encantaría recibir tus contribuciones! Si encuentras un error (bug) o quieres añadir nuevos ejercicios, por favor, sigue estos pasos:
+
+We welcome contributions! If you find a bug or want to add new exercises, please follow these steps:
+
+1.  **Crea una rama (Create a branch):** Crea una nueva rama a partir de la rama principal (`main`). El nombre de la rama debe ser descriptivo y seguir un formato consistente. Recomendamos el siguiente formato:
+
+    Create a new branch from the main branch (`main`). The branch name should be descriptive and follow a consistent format. We recommend the following format:
+
+    *   Para corregir un error: `fix/nombre-descriptivo-del-error` (ejemplo: `fix/error-en-calculo-de-promedio`)
+    *   Para agregar una nueva funcionalidad/ejercicio: `feature/nombre-descriptivo-de-la-funcionalidad` (ejemplo: `feature/ejercicio-de-ordenamiento-burbuja`)
+
+2.  **Realiza los cambios (Make the changes):** Realiza los cambios necesarios en tu rama. Asegúrate de que tu código esté bien comentado y siga las convenciones de estilo del proyecto.
+
+    Make the necessary changes in your branch. Ensure your code is well commented and follows the project's style guidelines.
+
+------------
+
+### Trabajando con Ramas (Working with Branches)
+  *  Para resolver los ejercicios, cada colaborador debe crear su propia rama siguiendo las instrucciones a continuación.
+------------
 
 ### Nº1.
 `Make a clone of the repository`
