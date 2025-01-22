@@ -10,7 +10,7 @@
 ###### You will be able to solve the different problems with different algorithms and programming languages.
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj0bMSjQQW0nwdKhzFo0foZDfcUK65HdqyxQ&usqp=CAU)
 
-### Instruction for Collaborations
+#### Dudas y Consultas (Questions and Inquiries)
 
 ------------
 `Cualquier duda con las instrucciones o aprender a crear ramas, escribir al Whatsapp o Telegram:`
